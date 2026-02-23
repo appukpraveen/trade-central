@@ -1,0 +1,10 @@
+# Ignore EVERYTHING
+*
+
+# But not the .gitignore itself
+!.gitignore
+
+# Allow only these specific files
+!BTCUSD_signal.txt
+!XAUUSD_signal.txt
+!EURUSD_signal.txt
