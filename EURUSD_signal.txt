@@ -1,16 +1,16 @@
 Symbol: EURUSD
-Signal Status: UP (Buy Signal)
-Modal Timestamp: 1:50 AM
+Signal Status: DOWN (Sell Signal)
+Modal Timestamp: 5:08 AM
 --- Detailed Levels ---
-1.18410
+1.18200
 Resistance * * *
-1.18270
+1.18050
 Resistance * *
-1.18130
+1.17900
 Resistance *
-1.17590
+1.17600
 Support *
-1.17350
+1.17450
 Support * *
-1.17210
+1.17300
 Support * * *
