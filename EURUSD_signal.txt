@@ -1,5 +1,5 @@
 Symbol: EURUSD
-Signal Status: DOWN (Sell Signal)
+Signal Status: UP (Buy Signal)
 Modal Timestamp: 10:15 PM
 --- Detailed Levels ---
 1.18640
