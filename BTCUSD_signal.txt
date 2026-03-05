@@ -1,16 +1,16 @@
 Symbol: BTCUSD
-Signal Status: DOWN (Sell Signal)
-Modal Timestamp: 1:11 PM
+Signal Status: UP (Buy Signal)
+Modal Timestamp: 3:12 PM
 --- Detailed Levels ---
-76440.00
+76790.00
 Resistance * * *
-75460.00
+75810.00
 Resistance * *
-73830.00
+74830.00
 Resistance *
-70280.00
+71270.00
 Support *
-69310.00
+69630.00
 Support * *
-68340.00
+68660.00
 Support * * *
