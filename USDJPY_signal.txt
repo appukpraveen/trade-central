@@ -1,6 +1,16 @@
 Symbol: USDJPY
 Signal Status: DOWN (Sell Signal)
-Modal Timestamp: Unknown
+Modal Timestamp: 11:42 AM
 --- Detailed Levels ---
-
-ERROR: Failed to extract detailed signal levels due to browser element issue.
+158.900
+Resistance * * *
+158.550
+Resistance * *
+158.150
+Resistance *
+157.400
+Support *
+157.000
+Support * *
+156.700
+Support * * *
