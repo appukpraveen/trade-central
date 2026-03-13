@@ -1,16 +1,16 @@
 Symbol: BTCUSD
 Signal Status: UP (Buy Signal)
-Modal Timestamp: 6:34 AM
+Modal Timestamp: 8:34 AM
 --- Detailed Levels ---
-75700.00
+75200.00
 Resistance * * *
-74690.00
+74190.00
 Resistance * *
-73680.00
+73190.00
 Resistance *
-70140.00
+69830.00
 Support *
-68450.00
+68150.00
 Support * *
-67440.00
+67140.00
 Support * * *
