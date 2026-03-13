@@ -1,16 +1,16 @@
 Symbol: AUDUSD
 Signal Status: DOWN (Sell Signal)
-Modal Timestamp: 12:50 AM
+Modal Timestamp: 5:14 AM
 --- Detailed Levels ---
-0.71260
+0.71600
 Resistance * * *
-0.71150
+0.71400
 Resistance * *
-0.70970
+0.71100
 Resistance *
-0.70560
+0.70600
 Support *
-0.70450
+0.70300
 Support * *
-0.70340
+0.70050
 Support * * *
