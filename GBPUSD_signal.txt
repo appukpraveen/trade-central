@@ -1,16 +1,6 @@
 Symbol: GBPUSD
 Signal Status: UP (Buy Signal)
-Modal Timestamp: 9:16 PM
+Modal Timestamp: Unknown
 --- Detailed Levels ---
-1.33530
-Resistance * * *
-1.33300
-Resistance * *
-1.33070
-Resistance *
-1.32120
-Support *
-1.31730
-Support * *
-1.31500
-Support * * *
+
+ERROR: Failed to extract detailed signal levels due to browser element issue.
