@@ -1,6 +1,16 @@
 Symbol: BTCUSD
 Signal Status: UP (Buy Signal)
-Modal Timestamp: Unknown
+Modal Timestamp: 1:11 PM
 --- Detailed Levels ---
-
-ERROR: Failed to extract detailed signal levels due to browser element issue.
+75630.00
+Resistance * * *
+74620.00
+Resistance * *
+73610.00
+Resistance *
+70170.00
+Support *
+68470.00
+Support * *
+67470.00
+Support * * *
