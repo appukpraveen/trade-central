@@ -1,16 +1,16 @@
 Symbol: XAUUSD
 Signal Status: DOWN (Sell Signal)
-Modal Timestamp: 10:43 AM
+Modal Timestamp: 11:24 AM
 --- Detailed Levels ---
 4800.000
 Resistance * * *
-4765.000
+4750.000
 Resistance * *
-4735.000
+4695.000
 Resistance *
-4630.000
+4540.000
 Support *
-4600.000
+4485.000
 Support * *
-4570.000
+4430.000
 Support * * *
