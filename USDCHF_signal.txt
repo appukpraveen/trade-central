@@ -1,16 +1,16 @@
 Symbol: USDCHF
-Signal Status: DOWN (Sell Signal)
-Modal Timestamp: 9:15 PM
+Signal Status: UP (Buy Signal)
+Modal Timestamp: 12:50 AM
 --- Detailed Levels ---
-0.80530
+0.80570
 Resistance * * *
-0.80370
+0.80410
 Resistance * *
-0.80100
+0.80250
 Resistance *
-0.79460
+0.79650
 Support *
-0.79300
+0.79380
 Support * *
-0.79140
+0.79220
 Support * * *
