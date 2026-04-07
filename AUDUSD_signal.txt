@@ -1,16 +1,16 @@
 Symbol: AUDUSD
 Signal Status: UP (Buy Signal)
-Modal Timestamp: 9:15 PM
+Modal Timestamp: 12:54 AM
 --- Detailed Levels ---
-0.69820
+0.69990
 Resistance * * *
-0.69710
+0.69880
 Resistance * *
-0.69610
+0.69780
 Resistance *
-0.69140
+0.69310
 Support *
-0.68970
+0.69140
 Support * *
-0.68860
+0.69030
 Support * * *
