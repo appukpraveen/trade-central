@@ -1,16 +1,16 @@
 Symbol: XAUUSD
 Signal Status: UP (Buy Signal)
-Modal Timestamp: 7:42 AM
+Modal Timestamp: 9:12 AM
 --- Detailed Levels ---
-4884.000
+5040.000
 Resistance * * *
-4870.000
+4950.000
 Resistance * *
-4855.000
+4865.000
 Resistance *
-4789.000
+4705.000
 Support *
-4764.000
+4655.000
 Support * *
-4749.000
+4605.000
 Support * * *
