@@ -1,5 +1,5 @@
 Symbol: BTCUSD
-Signal Status: UP (Buy Signal)
+Signal Status: DOWN (Sell Signal)
 Modal Timestamp: 10:25 AM
 --- Detailed Levels ---
 80000.00
