@@ -1,5 +1,5 @@
 Symbol: GBPUSD
-Signal Status: DOWN (Sell Signal)
+Signal Status: UP (Buy Signal)
 Modal Timestamp: 4:51 PM
 --- Detailed Levels ---
 1.35450
