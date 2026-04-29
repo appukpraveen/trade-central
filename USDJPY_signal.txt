@@ -1,16 +1,16 @@
 Symbol: USDJPY
 Signal Status: UP (Buy Signal)
-Modal Timestamp: 9:52 AM
+Modal Timestamp: 3:07 PM
 --- Detailed Levels ---
 160.200
 Resistance * * *
 160.000
 Resistance * *
-159.800
+159.850
 Resistance *
-159.350
+159.500
 Support *
-159.150
+159.200
 Support * *
 158.950
 Support * * *
